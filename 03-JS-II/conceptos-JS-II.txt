@@ -1,0 +1,5 @@
+
+* `for`  es un statement que nos permite hacer un bucle de codigo mientras sus agumento condicional se cumpla en true. 
+* `&&`, `||`, `!` son operadores logicos, &&  o  "Y" nos permite evaluar dos valores y solo sera true si los dos valores lo son, 
+                                         || u "o" nos permite evaluar dos o mas valores donde solo dara false si todos los valores lo son
+                                         ! o "no" es una negacion y nos arojara el resultado booleano a la inversa 

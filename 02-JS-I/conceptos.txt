@@ -1,5 +1,0 @@
-* Variables: es como una caja donde voy a guardar algun tipo  de valor
- * Strings: es un hilo de caracteres que el interprete imprime 
- * Funciones (argumentos, `return`): las funciones son sentencias para agrupar un conjunto de codigos, los argumentos son tipos de datos que usara la funcion para lo que sea que haga, el return es la declaracion para que el interprete retorne lo que sea que haga la funcion.
- * Declaraciones `if`: es un keyword con el cual podemos condicionar una funcion 
- * Valores booleanos (`true`, `false`): son valores que confirman o niegan la condicion de un tipo de dato
