@@ -1,0 +1,10 @@
+    * Objetos
+     son parecidos a los arrays, pero con cosas diferentes, puedo almacenar muchos valores o metodos relacionados a una sola cosa, "el objeto"
+	* Propiedades
+     son las cosas que puedo almacenar dentro del obtejo.
+	* Métodos
+    son funciones que a su ves son propiedades de un objeto
+	* Bucle `for…in`
+     es un bucle enfocado para recorer objetos por no tener indice numerico
+	* Notación de puntos vs notación de corchetes
+     la notacion de puntos es literal, mientras que en corchetes puedo colocar una variable o una ecuacion
