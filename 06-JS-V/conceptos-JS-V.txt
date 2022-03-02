@@ -1,0 +1,5 @@
+* `prototype`
+prototipo se le llama a el conjunto de propiedades que tiene una clase. puede ser un metodo de una clase 
+y se puede invocar en cualquier objeto de esa clase, pero no necesariamente debe estar la funcion dentro del objeto.
+* _Constructors_ (de Clases)
+es una funcion que nos sirve para crear objetos con las mismas propiedades.
